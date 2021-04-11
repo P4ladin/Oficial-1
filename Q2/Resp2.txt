@@ -1,0 +1,6 @@
+'A busca linear consiste no algoritimo percorrendo o arranjo em busca do menor elemento para o posicionar na ordem correta, comecando do maior até o menor.
+ o processo é demorado devido à necessidade do algoritimo de realizar este processo multiplas vezes, como pode se obsrvar no bubble sorting,
+ por exemplo.
+ Ja a busca binaria realiza uma divisao pela metade do valor requisitado, e nesta divisao analisa se o valor solicitado
+ é maior ou menor que o quociente da divisao, e a mesma se repete até que o valor solicitado e o quociente sejam iguais
+ desta maneira sendo superior à busca linear.'
